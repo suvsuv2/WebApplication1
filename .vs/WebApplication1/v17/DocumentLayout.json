@@ -25,6 +25,20 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-10T13:43:58.124Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
@@ -38,18 +52,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-10T13:43:58.124Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
@@ -58,7 +60,8 @@
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T13:43:49.302Z"
+              "WhenOpened": "2025-08-10T13:43:49.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,7 +71,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\htmlpage.html",
               "ToolTip": "C:\\Users\\User\\source\\repos\\WebApplication1\\WebApplication1\\htmlpage.html",
               "RelativeToolTip": "WebApplication1\\htmlpage.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-08-10T13:42:31.346Z",
               "EditorCaption": ""
